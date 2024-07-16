@@ -75,8 +75,8 @@
 <br/>
 
 ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=qamarq&repo=nui_blocker&border_color=123dff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=123dff)](https://github.com/qamarq/nui_blocker)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=qamarq&repo=next-view-transitions&border_color=123dff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=123dff)](https://github.com/qamarq/next-view-transitions)
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=qamarq&repo=nui_blocker&border_color=0f73ff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0f73ff)](https://github.com/qamarq/nui_blocker)
+[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=qamarq&repo=next-view-transitions&border_color=0f73ff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0f73ff)](https://github.com/qamarq/next-view-transitions)
 
 <p align="left">
   <a href="https://github.com/qamarq?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -88,7 +88,7 @@
 
 <p align="center">
   <a href="https://github.com/qamarq">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=qamarq&theme=radical&border=123dff&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=qamarq&theme=radical&border=ff127950&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
 
@@ -99,10 +99,10 @@
 </p>
 
 <a> 
-    <a href="https://github.com/qamarq"><img alt="Kamil Marczak's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=qamarq&show_icons=true&count_private=true&theme=react&border_color=123dff&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/qamarq"><img alt="Kamil Marczak's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=qamarq&langs_count=8&layout=compact&theme=react&border_color=123dff&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/qamarq"><img alt="Kamil Marczak's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=qamarq&show_icons=true&count_private=true&theme=react&border_color=ff127950&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/qamarq"><img alt="Kamil Marczak's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=qamarq&langs_count=8&layout=compact&theme=react&border_color=ff127950&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-<!-- ![Kamil Marczak's Graph](https://github-readme-activity-graph.vercel.app/graph?username=qamarq&custom_title=Kamil%20Marczak's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=123dff&line=123dff&point=123dff&area_color=FFFFFF&title_color=FFFFFF&area=true) -->
+<!-- ![Kamil Marczak's Graph](https://github-readme-activity-graph.vercel.app/graph?username=qamarq&custom_title=Kamil%20Marczak's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=ff127950&line=ff127950&point=ff127950&area_color=FFFFFF&title_color=FFFFFF&area=true) -->
