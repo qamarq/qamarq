@@ -31,7 +31,7 @@
 <p>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/>
  ❤️ &emsp; Love to writing code and learning new features<br/>
- 📧 &emsp; Reach me anytime: <a href="mailto:kamilm@you2.pl">kamilm@you2.pl</a><br/>
+ 📧 &emsp; Reach me anytime: <a href="mailto:km.wpwp.pl@gmail.com">km.wpwp.pl@gmail.com</a><br/>
  💬 &emsp; Ask me about anything <a href="https://github.com/qamarq/qamarq/issues">here</a>
 
 </p>
