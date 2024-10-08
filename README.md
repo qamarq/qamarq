@@ -7,7 +7,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>!, I am
                 <b><a target="_blank" href="https://kamilmarczak.pl">Kamil Marczak</a></b>
         </samp>
 </h3>
@@ -21,9 +21,6 @@
  </a>
  <a href="https://x.com/qamarq_" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
- </a>
- <a href="https://instagram.com/kamil.marczak_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="qamarq" />
  </a>
 </p>
 <br />
