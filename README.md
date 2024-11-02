@@ -73,6 +73,7 @@
 
 ## Top Open Source
 [![solvro-rekru](https://github-readme-stats.vercel.app/api/pin/?username=qamarq&repo=solvro-rekru&border_color=0f73ff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0f73ff)](https://github.com/qamarq/solvro-rekru)
+[![netnook](https://github-readme-stats.vercel.app/api/pin/?username=qamarq&repo=netnook&border_color=0f73ff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0f73ff)](https://github.com/qamarq/netnook)
 [![better-auth](https://github-readme-stats.vercel.app/api/pin/?username=qamarq&repo=better-auth&border_color=0f73ff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0f73ff)](https://github.com/qamarq/better-auth)  
 [![17Mov_Devtools](https://github-readme-stats.vercel.app/api/pin/?username=qamarq&repo=17mov_DevTool&border_color=0f73ff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0f73ff)](https://github.com/qamarq/17mov_DevTool)
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=qamarq&repo=nui_blocker&border_color=0f73ff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0f73ff)](https://github.com/qamarq/nui_blocker)
