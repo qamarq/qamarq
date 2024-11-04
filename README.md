@@ -72,12 +72,12 @@
 <br/>
 
 ## Top Open Source
-[![portfolio-page](https://github-readme-stats.vercel.app/api/pin/?username=qamarq&repo=portfolio-page&border_color=0f73ff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0f73ff)](https://github.com/qamarq/portfolio-page) 
-[![solvro-rekru](https://github-readme-stats.vercel.app/api/pin/?username=qamarq&repo=solvro-rekru&border_color=0f73ff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0f73ff)](https://github.com/qamarq/solvro-rekru)
-[![netnook](https://github-readme-stats.vercel.app/api/pin/?username=qamarq&repo=netnook&border_color=0f73ff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0f73ff)](https://github.com/qamarq/netnook)
-[![17Mov_Devtools](https://github-readme-stats.vercel.app/api/pin/?username=qamarq&repo=17mov_DevTool&border_color=0f73ff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0f73ff)](https://github.com/qamarq/17mov_DevTool)
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=qamarq&repo=nui_blocker&border_color=0f73ff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0f73ff)](https://github.com/qamarq/nui_blocker)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=qamarq&repo=next-view-transitions&border_color=0f73ff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0f73ff)](https://github.com/qamarq/next-view-transitions)
+[![portfolio-page](https://github-readme-stats.vercel.app/api/pin/?username=qamarq&repo=portfolio-page&border_color=f43f5e&bg_color=4c051940&title_color=C9D1D9&text_color=8B949E&icon_color=f43f5e)](https://github.com/qamarq/portfolio-page) 
+[![solvro-rekru](https://github-readme-stats.vercel.app/api/pin/?username=qamarq&repo=solvro-rekru&border_color=2563eb&bg_color=17255440&title_color=C9D1D9&text_color=8B949E&icon_color=2563eb)](https://github.com/qamarq/solvro-rekru)
+[![netnook](https://github-readme-stats.vercel.app/api/pin/?username=qamarq&repo=netnook&border_color=e2e8f0&bg_color=02061740&title_color=C9D1D9&text_color=8B949E&icon_color=e2e8f0)](https://github.com/qamarq/netnook)
+[![17Mov_Devtools](https://github-readme-stats.vercel.app/api/pin/?username=qamarq&repo=17mov_DevTool&border_color=db2777&bg_color=50072440&title_color=C9D1D9&text_color=8B949E&icon_color=db2777)](https://github.com/qamarq/17mov_DevTool)
+[![nui_blocker](https://github-readme-stats.vercel.app/api/pin/?username=qamarq&repo=nui_blocker&border_color=0f73ff&bg_color=17255440&title_color=C9D1D9&text_color=8B949E&icon_color=0f73ff)](https://github.com/qamarq/nui_blocker)
+[![next-view-transitions](https://github-readme-stats.vercel.app/api/pin/?username=qamarq&repo=next-view-transitions&border_color=8b5cf6&bg_color=2e106540&title_color=C9D1D9&text_color=8B949E&icon_color=8b5cf6)](https://github.com/qamarq/next-view-transitions)
 
 <p align="left">
   <a href="https://github.com/qamarq?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
