@@ -16,7 +16,7 @@
  <a href="https://kamilmarczak.pl" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="qamarq" />
  </a>
- <a href="https://linkedin.com/in/%F0%9F%94%A5-kamil-marczak-095b331a2" target="_blank">
+ <a href="https://www.linkedin.com/in/kamilmarczak/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="qamarq"/>
  </a>
  <a href="https://x.com/qamarq_" target="_blank">
