@@ -77,7 +77,7 @@
 [![netnook](https://github-readme-stats.vercel.app/api/pin/?username=qamarq&repo=netnook&border_color=e2e8f0&bg_color=02061740&title_color=C9D1D9&text_color=8B949E&icon_color=e2e8f0)](https://github.com/qamarq/netnook)
 [![17Mov_Devtools](https://github-readme-stats.vercel.app/api/pin/?username=qamarq&repo=17mov_DevTool&border_color=db2777&bg_color=50072440&title_color=C9D1D9&text_color=8B949E&icon_color=db2777)](https://github.com/qamarq/17mov_DevTool)
 [![nui_blocker](https://github-readme-stats.vercel.app/api/pin/?username=qamarq&repo=nui_blocker&border_color=0f73ff&bg_color=17255440&title_color=C9D1D9&text_color=8B949E&icon_color=0f73ff)](https://github.com/qamarq/nui_blocker)
-[![next-view-transitions](https://github-readme-stats.vercel.app/api/pin/?username=qamarq&repo=next-view-transitions&border_color=8b5cf6&bg_color=2e106540&title_color=C9D1D9&text_color=8B949E&icon_color=8b5cf6)](https://github.com/qamarq/next-view-transitions)
+[![web-planer](https://github-readme-stats.vercel.app/api/pin/?username=Solvro&repo=web-planer&border_color=8b5cf6&bg_color=2e106540&title_color=C9D1D9&text_color=8B949E&icon_color=8b5cf6)](https://github.com/Solvro/web-planer)
 
 <p align="left">
   <a href="https://github.com/qamarq?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
