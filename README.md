@@ -89,7 +89,7 @@
 
 <p align="center">
   <a href="https://github.com/qamarq">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=qamarq&theme=radical&border=ff127950&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://streak-stats.demolab.com/?user=qamarq&theme=radical" alt="Saif's GitHub streak"/>
   </a>
 </p>
 
