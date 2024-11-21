@@ -43,7 +43,7 @@
 ## Use To Code
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,python,adonis,nodejs,tailwind,html,java,git,github,mongodb,postgresql,lua,vscode,vercel,vite,unreal,tensorflow,threejs,prisma,postman,kotlin,java,graphql,firebase,electron,androidstudio,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,python,adonis,nodejs,tailwind,html,pr,git,github,mongodb,postgresql,lua,vscode,vercel,vite,unreal,tensorflow,threejs,prisma,postman,kotlin,java,graphql,firebase,electron,androidstudio,cloudflare" />
   </a>
 </p>
 
