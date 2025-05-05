@@ -52,10 +52,14 @@
 
 <p align="center">
   <a href="https://github.com/qamarq">
-    <img src="https://streak-stats.demolab.com/?user=qamarq&theme=radical" alt="Saif's GitHub streak"/>
+    <img src="https://streak-stats.demolab.com/?user=qamarq&hide_border=true&theme=radical" alt="Saif's GitHub streak"/>
   </a>
 </p>
-
+<p align="center">
+  <a href="https://github.com/qamarq">
+    <img src="https://github-profile-trophy.vercel.app/?username=qamarq&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="Saif's GitHub streak"/>
+  </a>
+</p>
 <a> 
     <a href="https://github.com/qamarq"><img alt="Kamil Marczak's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=qamarq&show_icons=true&count_private=true&theme=react&border_color=ff127950&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/qamarq"><img alt="Kamil Marczak's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=qamarq&langs_count=8&layout=compact&theme=react&border_color=ff127950&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
